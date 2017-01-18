@@ -4,7 +4,7 @@
 
 - Screenshoot :
 
-1. 
+1.
 
 <img src="https://github.com/Dheaayuang/RecyclerView1/blob/master/07_XIR3_DHEA_RecyclerView1.1.png">
 
@@ -22,7 +22,7 @@ Nama : Dhea Ayu Anggraini
 
 Kelas : XI RPL 3
 
-No.absen : 07
+No Urut : 07
 
 NIS : 4696/1415.070
 
